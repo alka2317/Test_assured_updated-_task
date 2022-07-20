@@ -1,0 +1,10 @@
+STEPS TO EXECUTE CODE
+1.unzip rar file
+2.copy  RestAssured123 to eclipse workspace
+3.go to eclipse
+3.go to file
+4.right click and open RestAssured123 project in eclipse
+5.go to src/test/java
+6. go to methods
+7. go to Test_1.java and open
+8. and run
